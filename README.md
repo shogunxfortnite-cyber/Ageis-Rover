@@ -1,2 +1,1 @@
-# Ageis-Rover
-A automatic car
+I'm designing: A automatic self driving car with Arduino Ventuno Q.It has 3 cameras, 1 ultrasonic sensor, 2 ir sensor, and a chasis.For printing chasis a 3d printer and 2 brush motors with esc.Even a SmartElex u-blox MAX-M10S GNSS Module Breakout for GPS.
